@@ -12,3 +12,5 @@ Assignment-4
 8.https://colab.research.google.com/drive/15nQV3s4HO76kwRgSjsK78x_azVR3wZdB
 Asssignment-5
 9.https://colab.research.google.com/drive/1ZiYdprbQ6HFSVoUf3HA_nrvyO3iHfqNM#scrollTo=ZTVRx366fFCD
+Assignment-6
+10.https://colab.research.google.com/drive/1S_pwngP0FymMGD3u9MkI8ChmF6SBHByE#scrollTo=jN1YjwbIqYmb

@@ -22,3 +22,5 @@ Assignment-8
 13.https://colab.research.google.com/drive/1CLvFSvxwuZsxG6HPia16mtcoGytwcZSe#scrollTo=LLH4XSjbyqPa
 Assignment-9
 14.https://colab.research.google.com/drive/1fVcOCqWYTetqoYttImmmyTD_hFdqEL8I#scrollTo=S5DwIUs0ko7C
+LAB EXAM
+https://colab.research.google.com/drive/1Zv_7Chxw3MmNAR0FjvOAixJXdGqP9gUP#scrollTo=l74sJbd3Cwon
